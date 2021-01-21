@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <!--
-	Photon by HTML5 UP	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+	Photon by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
 <html>
   <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>WikiConfinamento</title>
-    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
     <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
@@ -16,7 +15,8 @@
       <div class="inner"> <span class="icon solid major"></span>
         <h1>Combata a pandemia:<br>
           edite a Wikipédia.</h1>
-        <p>Fique em Casa. Por si. Por todos.<br />#Fiqueemcasa #wikiconfinamento></p>
+        <p>Fique em Casa. Por si. Por todos.<br>
+          #Fiqueemcasa #wikiconfinamento</p>
         <ul class="actions special">
           <li><a href="#one" class="button scrolly">Descubra</a></li>
         </ul>
@@ -34,8 +34,7 @@
             </header>
             <p>A atual pandemia veio mudar o nosso dia a dia. Um pouco por todo
               o mundo foram tomadas várias medidas inéditas para conter o
-              contágio, muitas delas impensáveis até há poucos meses.
-            </p>
+              contágio, muitas delas impensáveis até há poucos meses. </p>
             <p> Temos assistido ao encerramento de centros escolares e de
               ensino, espaços culturais e de lazer, e cada vez mais está
               demonstrado que uma das melhores formas de combater o vírus é
@@ -59,40 +58,29 @@
         <div class="row gtr-150">
           <div class="col-6 col-12-medium">
             <ul class="major-icons">
-              <li><span class="icon solid style1 major fa-code"></span><br>
-              </li>
-              <li><span class="icon solid style2 major fa-bolt"></span><br>
-              </li>
-              <li><span class="icon solid style3 major fa-camera-retro"></span><br>
-              </li>
-              <li><span class="icon solid style4 major fa-cog"></span><br>
-              </li>
-              <li><span class="icon solid style5 major fa-desktop"></span><br>
-              </li>
-              <li><span class="icon solid style6 major fa-calendar"></span><br>
-              </li>
+              <div class="col-6 col-12-medium imp-medium"> <span class="image fit"><img
+                    src="images/Wikimedia_logo_family_complete-2013.png"></span>
+              </div>
             </ul>
           </div>
           <div class="col-6 col-12-medium">
             <header class="major">
-              <h2>Lorem ipsum dolor adipiscing<br>
-                amet dolor consequat</h2>
+              <h2>Sobre<br>
+                os projetos wikimedia</h2>
             </header>
-            <p>Adipiscing a commodo ante nunc accumsan interdum mi ante
-              adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus
-              nascetur ac non. Lorem curae eu ante amet sapien in tempus ac.
-              Adipiscing id accumsan adipiscing ipsum.</p>
-            <p>Blandit faucibus proin. Ac aliquam integer adipiscing enim non
-              praesent vis commodo nunc phasellus cubilia ac risus accumsan.
-              Accumsan blandit. Lobortis phasellus non lobortis dit varius mi
-              varius accumsan lobortis. Blandit ante aliquam lacinia lorem
-              lobortis semper morbi col faucibus vitae integer placerat accumsan
-              orci eu mi odio tempus adipiscing adipiscing adipiscing curae
-              consequat feugiat etiam dolore.</p>
-            <p>Adipiscing a commodo ante nunc accumsan interdum mi ante
-              adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus
-              nascetur ac non. Lorem curae eu ante amet sapien in tempus ac.
-              Adipiscing id accumsan adipiscing ipsum.</p>
+            <p> Todos os projetos principais da <a href="https://pt.wikimedia.org/w/index.php?title=About_Wikimedia&amp;action=edit&amp;redlink=1">Fundação
+                Wikimedia</a> são desenvolvidos colaborativamente pelos seus
+              utilizadores, através do software <a href="https://pt.wikimedia.org/wiki/Nossos_projectos#MediaWiki">MediaWiki</a>.
+              O conteúdo é livre e distribuído sob a <a href="https://creativecommons.org/licenses/by-sa/3.0/">Atribuição-Partilha
+pela
+                mesma Licença 3.0</a> (exceto o Wikinotícias, licenciado sob <a
+                href="https://creativecommons.org/licenses/by/2.5/">Creative
+                Commons Attribution 2.5</a>), o que significa que pode ser
+              livremente usado, livremente editado, livremente reproduzido e
+              livremente redistribuído, sujeito às restrições de tal licença.
+              Veja também nossa <a href="https://pt.wikimedia.org/wiki/Nossos%20projectos">lista
+                de projetos Wikimedia</a>. </p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -101,35 +89,72 @@
     <section id="three" class="main style1 special">
       <div class="container">
         <header class="major">
-          <h2>Adipiscing amet consequat</h2>
+          <h3>Como colaborar</h3>
         </header>
         <p>Ante nunc accumsan et aclacus nascetur ac ante amet sapien sed.</p>
         <div class="row gtr-150">
-          <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic02.jpg"
-                alt=""></span>
-            <h3>Magna feugiat lorem</h3>
-            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante
-              nunc lobortis non amet vis sed volutpat et nascetur.</p>
+          <div class="col-4 col-12-medium"> <span class="image fit"><img
+                src="images/pic02.jpg"></span>
+            <h3>Ajuda:Página principal</h3>
+            <p>O portal para as páginas de ajuda, onde pode encontrar respostas
+              para as dúvidas mais comuns sobre a edição na Wikipédia.</p>
             <ul class="actions special">
-              <li><a href="#" class="button">More</a></li>
+              <li><a href="https://pt.wikipedia.org/wiki/Ajuda:P%C3%A1gina_principal"
+                  class="button">Mais</a></li>
             </ul>
           </div>
-          <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic03.jpg"
+          <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic02.jpg"
                 alt=""></span>
-            <h3>Magna feugiat lorem</h3>
-            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante
-              nunc lobortis non amet vis sed volutpat et nascetur.</p>
+            <h3> Como colaborar </h3>
+            <p>Alguns artigos da Wikipédia são apenas esboços, ou tem outros
+              problemas que precisam de atenção. Se quiser ajudar na melhoria
+              deles, seja audaz e comece já a ajudar.</p>
             <ul class="actions special">
-              <li><a href="#" class="button">More</a></li>
+              <li><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio#Tarefas"
+                  class="button">Mais</a></li>
             </ul>
           </div>
           <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic04.jpg"
                 alt=""></span>
-            <h3>Magna feugiat lorem</h3>
-            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante
-              nunc lobortis non amet vis sed volutpat et nascetur.</p>
+            <h3>Tutoria</h3>
+            <p>A tutoria tem o objetivo de ajudar novos editores a se
+              familiarizarem com a Wikipédia e com suas políticas, ao mesmo
+              tempo em que os integra à comunidade ensinando as melhores formas
+              de criar e editar artigos.</p>
             <ul class="actions special">
-              <li><a href="#" class="button">More</a></li>
+              <li><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Tutoria"
+                  class="button">Mais</a></li>
+            </ul>
+          </div>
+          <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic04.jpg"
+                alt=""></span>
+            <h3>Wikidata:Visitas guiadas</h3>
+            <p>As visitas guiadas do Wikidata são tutoriais interativos
+              projetados para si, o novo utilizador. Estes guias vão mostrar-lhe
+              como funciona o Wikidata e ensinar-lhe a editar e adicionar dados.</p>
+            <ul class="actions special">
+              <li><a href="https://www.wikidata.org/wiki/Wikidata:Tours/pt" class="button">Mais</a></li>
+            </ul>
+          </div>
+          <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic04.jpg"
+                alt=""></span>
+            <h3>Wikidata:Introdução</h3>
+            <p>O Wikidata é uma base de dados secundária livre, colaborativa,
+              multilingue, que reúne os dados estruturados para fornecer suporte
+              para a Wikipédia, Wikimedia Commons, e outras wikis do movimento
+              da Wikimedia, e para qualquer pessoa no mundo. .</p>
+            <ul class="actions special">
+              <li><a href="https://www.wikidata.org/wiki/Wikidata:Introduction/pt"
+                  class="button">Mais</a></li>
+            </ul>
+          </div>
+          <div class="col-4 col-12-medium"> <span class="image fit"><img src="images/pic04.jpg"
+                alt=""></span>
+            <h3>Wikidata:Ferramentas</h3>
+            <p>Lista de ferramentas que permitem trabalhar e visualizar os dados
+              do Wikidata de forma mais fácil e eficaz.</p>
+            <ul class="actions special">
+              <li><a href="https://www.wikidata.org/wiki/Wikidata:Tools/pt" class="button">Mais</a></li>
             </ul>
           </div>
         </div>
@@ -139,107 +164,36 @@
     <section id="four" class="main style2 special">
       <div class="container">
         <header class="major">
-          <h2>Ipsum feugiat consequat?</h2>
+          <h2>Prefere ajudar jogando?</h2>
         </header>
-        <p>Sed lacus nascetur ac ante amet sapien.</p>
+        <p>Consulte a lista de gamificação, onde pode contribuir através de
+          jogos divertidos.</p>
         <ul class="actions special">
-          <li><a href="#" class="button wide primary">Sign Up</a></li>
-          <li><a href="#" class="button wide">Learn More</a></li>
+          <li><a href="https://wikidata-game.toolforge.org/distributed/#" class="button wide primary">Wikidata-Game</a></li>
         </ul>
       </div>
     </section>
     <!-- Five -->
     <!--
-			<section id="five" class="main style1">				<div class="container">					<header class="major special">						<h2>Elements</h2>
-					</header>					<section>						<h4>Text</h4>
-						<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.						This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.						This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>						<hr />
-						<header>							<h4>Heading with a Subtitle</h4>							<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>						</header>
-						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>						<header>							<h5>Heading with a Subtitle</h5>							<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
-						</header>						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>						<hr />						<h2>Heading Level 2</h2>
-						<h3>Heading Level 3</h3>						<h4>Heading Level 4</h4>						<h5>Heading Level 5</h5>						<h6>Heading Level 6</h6>
-						<hr />						<h5>Blockquote</h5>						<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>						<h5>Preformatted</h5>
-						<pre><code>i = 0;while (!deck.isInOrder()) {print 'Iteration ' + i;
-deck.shuffle();i++;}
-print 'It took ' + i + ' iterations to sort the deck.';</code></pre>					</section>					<section>
-						<h4>Lists</h4>						<div class="row">							<div class="col-6 col-12-medium">								<h5>Unordered</h5>
-								<ul>									<li>Dolor pulvinar etiam.</li>									<li>Sagittis adipiscing.</li>									<li>Felis enim feugiat.</li>
-								</ul>								<h5>Alternate</h5>								<ul class="alt">									<li>Dolor pulvinar etiam.</li>
-									<li>Sagittis adipiscing.</li>									<li>Felis enim feugiat.</li>								</ul>							</div>
-							<div class="col-6 col-12-medium">								<h5>Ordered</h5>								<ol>									<li>Dolor pulvinar etiam.</li>
-									<li>Etiam vel felis viverra.</li>									<li>Felis enim feugiat.</li>									<li>Dolor pulvinar etiam.</li>									<li>Etiam vel felis lorem.</li>
-									<li>Felis enim et feugiat.</li>								</ol>								<h5>Icons</h5>								<ul class="icons">
-									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>									<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-								</ul>							</div>						</div>						<h5>Actions</h5>
-						<div class="row">							<div class="col-6 col-12-medium">								<ul class="actions">									<li><a href="#" class="button primary">Default</a></li>
-									<li><a href="#" class="button">Default</a></li>								</ul>								<ul class="actions small">									<li><a href="#" class="button primary small">Small</a></li>
-									<li><a href="#" class="button small">Small</a></li>								</ul>								<ul class="actions stacked">									<li><a href="#" class="button primary">Default</a></li>
-									<li><a href="#" class="button">Default</a></li>								</ul>								<ul class="actions stacked">									<li><a href="#" class="button primary small">Small</a></li>
-									<li><a href="#" class="button small">Small</a></li>								</ul>							</div>							<div class="col-6 col-12-medium">
-								<ul class="actions stacked">									<li><a href="#" class="button primary fit">Default</a></li>									<li><a href="#" class="button fit">Default</a></li>								</ul>
-								<ul class="actions stacked">									<li><a href="#" class="button primary small fit">Small</a></li>									<li><a href="#" class="button small fit">Small</a></li>								</ul>
-							</div>						</div>					</section>
-					<section>						<h4>Table</h4>						<h5>Default</h5>						<div class="table-wrapper">
-							<table>								<thead>									<tr>										<th>Name</th>
-										<th>Description</th>										<th>Price</th>									</tr>								</thead>
-								<tbody>									<tr>										<td>Item One</td>										<td>Ante turpis integer aliquet porttitor.</td>
-										<td>29.99</td>									</tr>									<tr>										<td>Item Two</td>
-										<td>Vis ac commodo adipiscing arcu aliquet.</td>										<td>19.99</td>									</tr>									<tr>
-										<td>Item Three</td>										<td> Morbi faucibus arcu accumsan lorem.</td>										<td>29.99</td>									</tr>
-									<tr>										<td>Item Four</td>										<td>Vitae integer tempus condimentum.</td>										<td>19.99</td>
-									</tr>									<tr>										<td>Item Five</td>										<td>Ante turpis integer aliquet porttitor.</td>
-										<td>29.99</td>									</tr>								</tbody>								<tfoot>
-									<tr>										<td colspan="2"></td>										<td>100.00</td>									</tr>
-								</tfoot>							</table>						</div>
-						<h5>Alternate</h5>						<div class="table-wrapper">							<table class="alt">								<thead>
-									<tr>										<th>Name</th>										<th>Description</th>										<th>Price</th>
-									</tr>								</thead>								<tbody>									<tr>
-										<td>Item One</td>										<td>Ante turpis integer aliquet porttitor.</td>										<td>29.99</td>									</tr>
-									<tr>										<td>Item Two</td>										<td>Vis ac commodo adipiscing arcu aliquet.</td>										<td>19.99</td>
-									</tr>									<tr>										<td>Item Three</td>										<td> Morbi faucibus arcu accumsan lorem.</td>
-										<td>29.99</td>									</tr>									<tr>										<td>Item Four</td>
-										<td>Vitae integer tempus condimentum.</td>										<td>19.99</td>									</tr>									<tr>
-										<td>Item Five</td>										<td>Ante turpis integer aliquet porttitor.</td>										<td>29.99</td>									</tr>
-								</tbody>								<tfoot>									<tr>										<td colspan="2"></td>
-										<td>100.00</td>									</tr>								</tfoot>							</table>
-						</div>					</section>					<section>
-						<h4>Buttons</h4>						<ul class="actions">							<li><a href="#" class="button primary">Primary</a></li>							<li><a href="#" class="button">Default</a></li>
-						</ul>						<ul class="actions">							<li><a href="#" class="button large">Large</a></li>							<li><a href="#" class="button">Default</a></li>
-							<li><a href="#" class="button small">Small</a></li>						</ul>						<ul class="actions fit">							<li><a href="#" class="button fit">Fit</a></li>
-							<li><a href="#" class="button primary fit">Fit</a></li>							<li><a href="#" class="button fit">Fit</a></li>						</ul>						<ul class="actions fit small">
-							<li><a href="#" class="button primary fit small">Fit + Small</a></li>							<li><a href="#" class="button fit small">Fit + Small</a></li>							<li><a href="#" class="button primary fit small">Fit + Small</a></li>						</ul>
-						<ul class="actions">							<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>							<li><a href="#" class="button icon solid fa-download">Icon</a></li>						</ul>
-						<ul class="actions">							<li><span class="button primary disabled">Disabled</span></li>							<li><span class="button disabled">Disabled</span></li>						</ul>
-					</section>					<section>						<h4>Form</h4>
-						<form method="post" action="#">							<div class="row gtr-uniform gtr-50">								<div class="col-6 col-12-xsmall">									<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-								</div>								<div class="col-6 col-12-xsmall">									<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />								</div>
-								<div class="col-12">									<select name="demo-category" id="demo-category">										<option value="">- Category -</option>										<option value="1">Manufacturing</option>
-										<option value="1">Shipping</option>										<option value="1">Administration</option>										<option value="1">Human Resources</option>									</select>
-								</div>								<div class="col-4 col-12-small">									<input type="radio" id="demo-priority-low" name="demo-priority" checked>									<label for="demo-priority-low">Low</label>
-								</div>								<div class="col-4 col-12-small">									<input type="radio" id="demo-priority-normal" name="demo-priority">									<label for="demo-priority-normal">Normal</label>
-								</div>								<div class="col-4 col-12-small">									<input type="radio" id="demo-priority-high" name="demo-priority">									<label for="demo-priority-high">High</label>
-								</div>								<div class="col-6 col-12-small">									<input type="checkbox" id="demo-copy" name="demo-copy">									<label for="demo-copy">Email me a copy</label>
-								</div>								<div class="col-6 col-12-small">									<input type="checkbox" id="demo-human" name="demo-human" checked>									<label for="demo-human">Not a robot</label>
-								</div>								<div class="col-12">									<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>								</div>
-								<div class="col-12">									<ul class="actions">										<li><input type="submit" value="Send Message" class="primary" /></li>										<li><input type="reset" value="Reset" /></li>
-									</ul>								</div>							</div>						</form>
-					</section>					<section>						<h4>Image</h4>
-						<h5>Fit</h5>						<div class="box alt">							<div class="row gtr-uniform gtr-50">								<div class="col-12"><span class="image fit"><img src="images/pic06.jpg" alt="" /></span></div>
-								<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-								<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-								<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>							</div>						</div>						<h5>Left &amp; Right</h5>
-						<p><span class="image left"><img src="images/pic05.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>						<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>					</section>
-				</div>			</section>		-->
+			<section id="five" class="main style1">				<div class="container">					<header class="major special">						<h2>Elements</h2>					</header>					<section>						<h4>Text</h4>						<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.						This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.						This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>						<hr />						<header>							<h4>Heading with a Subtitle</h4>							<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>						</header>						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>						<header>							<h5>Heading with a Subtitle</h5>							<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>						</header>						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>						<hr />						<h2>Heading Level 2</h2>						<h3>Heading Level 3</h3>						<h4>Heading Level 4</h4>						<h5>Heading Level 5</h5>						<h6>Heading Level 6</h6>						<hr />						<h5>Blockquote</h5>						<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>						<h5>Preformatted</h5>						<pre><code>i = 0;while (!deck.isInOrder()) {print 'Iteration ' + i;deck.shuffle();i++;}print 'It took ' + i + ' iterations to sort the deck.';</code></pre>					</section>					<section>						<h4>Lists</h4>						<div class="row">							<div class="col-6 col-12-medium">								<h5>Unordered</h5>								<ul>									<li>Dolor pulvinar etiam.</li>									<li>Sagittis adipiscing.</li>									<li>Felis enim feugiat.</li>								</ul>								<h5>Alternate</h5>								<ul class="alt">									<li>Dolor pulvinar etiam.</li>									<li>Sagittis adipiscing.</li>									<li>Felis enim feugiat.</li>								</ul>							</div>							<div class="col-6 col-12-medium">								<h5>Ordered</h5>								<ol>									<li>Dolor pulvinar etiam.</li>									<li>Etiam vel felis viverra.</li>									<li>Felis enim feugiat.</li>									<li>Dolor pulvinar etiam.</li>									<li>Etiam vel felis lorem.</li>									<li>Felis enim et feugiat.</li>								</ol>								<h5>Icons</h5>								<ul class="icons">									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>									<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>								</ul>							</div>						</div>						<h5>Actions</h5>						<div class="row">							<div class="col-6 col-12-medium">								<ul class="actions">									<li><a href="#" class="button primary">Default</a></li>									<li><a href="#" class="button">Default</a></li>								</ul>								<ul class="actions small">									<li><a href="#" class="button primary small">Small</a></li>									<li><a href="#" class="button small">Small</a></li>								</ul>								<ul class="actions stacked">									<li><a href="#" class="button primary">Default</a></li>									<li><a href="#" class="button">Default</a></li>								</ul>								<ul class="actions stacked">									<li><a href="#" class="button primary small">Small</a></li>									<li><a href="#" class="button small">Small</a></li>								</ul>							</div>							<div class="col-6 col-12-medium">								<ul class="actions stacked">									<li><a href="#" class="button primary fit">Default</a></li>									<li><a href="#" class="button fit">Default</a></li>								</ul>								<ul class="actions stacked">									<li><a href="#" class="button primary small fit">Small</a></li>									<li><a href="#" class="button small fit">Small</a></li>								</ul>							</div>						</div>					</section>					<section>						<h4>Table</h4>						<h5>Default</h5>						<div class="table-wrapper">							<table>								<thead>									<tr>										<th>Name</th>										<th>Description</th>										<th>Price</th>									</tr>								</thead>								<tbody>									<tr>										<td>Item One</td>										<td>Ante turpis integer aliquet porttitor.</td>										<td>29.99</td>									</tr>									<tr>										<td>Item Two</td>										<td>Vis ac commodo adipiscing arcu aliquet.</td>										<td>19.99</td>									</tr>									<tr>										<td>Item Three</td>										<td> Morbi faucibus arcu accumsan lorem.</td>										<td>29.99</td>									</tr>									<tr>										<td>Item Four</td>										<td>Vitae integer tempus condimentum.</td>										<td>19.99</td>									</tr>									<tr>										<td>Item Five</td>										<td>Ante turpis integer aliquet porttitor.</td>										<td>29.99</td>									</tr>								</tbody>								<tfoot>									<tr>										<td colspan="2"></td>										<td>100.00</td>									</tr>								</tfoot>							</table>						</div>						<h5>Alternate</h5>						<div class="table-wrapper">							<table class="alt">								<thead>									<tr>										<th>Name</th>										<th>Description</th>										<th>Price</th>									</tr>								</thead>								<tbody>									<tr>										<td>Item One</td>										<td>Ante turpis integer aliquet porttitor.</td>										<td>29.99</td>									</tr>									<tr>										<td>Item Two</td>										<td>Vis ac commodo adipiscing arcu aliquet.</td>										<td>19.99</td>									</tr>									<tr>										<td>Item Three</td>										<td> Morbi faucibus arcu accumsan lorem.</td>										<td>29.99</td>									</tr>									<tr>										<td>Item Four</td>										<td>Vitae integer tempus condimentum.</td>										<td>19.99</td>									</tr>									<tr>										<td>Item Five</td>										<td>Ante turpis integer aliquet porttitor.</td>										<td>29.99</td>									</tr>								</tbody>								<tfoot>									<tr>										<td colspan="2"></td>										<td>100.00</td>									</tr>								</tfoot>							</table>						</div>					</section>					<section>						<h4>Buttons</h4>						<ul class="actions">							<li><a href="#" class="button primary">Primary</a></li>							<li><a href="#" class="button">Default</a></li>						</ul>						<ul class="actions">							<li><a href="#" class="button large">Large</a></li>							<li><a href="#" class="button">Default</a></li>							<li><a href="#" class="button small">Small</a></li>						</ul>						<ul class="actions fit">							<li><a href="#" class="button fit">Fit</a></li>							<li><a href="#" class="button primary fit">Fit</a></li>							<li><a href="#" class="button fit">Fit</a></li>						</ul>						<ul class="actions fit small">							<li><a href="#" class="button primary fit small">Fit + Small</a></li>							<li><a href="#" class="button fit small">Fit + Small</a></li>							<li><a href="#" class="button primary fit small">Fit + Small</a></li>						</ul>						<ul class="actions">							<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>							<li><a href="#" class="button icon solid fa-download">Icon</a></li>						</ul>						<ul class="actions">							<li><span class="button primary disabled">Disabled</span></li>							<li><span class="button disabled">Disabled</span></li>						</ul>					</section>					<section>						<h4>Form</h4>						<form method="post" action="#">							<div class="row gtr-uniform gtr-50">								<div class="col-6 col-12-xsmall">									<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />								</div>								<div class="col-6 col-12-xsmall">									<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />								</div>								<div class="col-12">									<select name="demo-category" id="demo-category">										<option value="">- Category -</option>										<option value="1">Manufacturing</option>										<option value="1">Shipping</option>										<option value="1">Administration</option>										<option value="1">Human Resources</option>									</select>								</div>								<div class="col-4 col-12-small">									<input type="radio" id="demo-priority-low" name="demo-priority" checked>									<label for="demo-priority-low">Low</label>								</div>								<div class="col-4 col-12-small">									<input type="radio" id="demo-priority-normal" name="demo-priority">									<label for="demo-priority-normal">Normal</label>								</div>								<div class="col-4 col-12-small">									<input type="radio" id="demo-priority-high" name="demo-priority">									<label for="demo-priority-high">High</label>								</div>								<div class="col-6 col-12-small">									<input type="checkbox" id="demo-copy" name="demo-copy">									<label for="demo-copy">Email me a copy</label>								</div>								<div class="col-6 col-12-small">									<input type="checkbox" id="demo-human" name="demo-human" checked>									<label for="demo-human">Not a robot</label>								</div>								<div class="col-12">									<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>								</div>								<div class="col-12">									<ul class="actions">										<li><input type="submit" value="Send Message" class="primary" /></li>										<li><input type="reset" value="Reset" /></li>									</ul>								</div>							</div>						</form>					</section>					<section>						<h4>Image</h4>						<h5>Fit</h5>						<div class="box alt">							<div class="row gtr-uniform gtr-50">								<div class="col-12"><span class="image fit"><img src="images/pic06.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic04.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>								<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>							</div>						</div>						<h5>Left &amp; Right</h5>						<p><span class="image left"><img src="images/pic05.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>						<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>					</section>				</div>			</section>		-->
     <!-- Footer -->
     <section id="footer">
       <ul class="icons">
-        <li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-        <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-        <li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-        <li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+        <li><a href="https://twitter.com/wikimediapt" class="icon brands alt fa-twitter"><span
+              class="label">Twitter</span></a></li>
+        <li><a href="https://www.facebook.com/pages/Wikimedia-Portugal/178878543899"
+            class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+        <li><a href="https://www.instagram.com/wikimediapt/" class="icon brands alt fa-instagram"><span
+              class="label">Instagram</span></a></li>
+        <li><a href="https://github.com/wikimedia-portugal" class="icon brands alt fa-github"><span
+              class="label">GitHub</span></a></li>
+        <li><a href="mailto=info@wikimedia.pt" class="icon solid alt fa-telegram"><span
+              class="label">Telegram</span></a></li>
+        <li><a href="mailto=info@wikimedia.pt" class="icon solid alt fa-envelope"><span
+              class="label">Email</span></a></li>
       </ul>
       <ul class="copyright">
-        <li>© Untitled</li>
+        <li>© Wikimedia Portugal</li>
         <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
       </ul>
     </section>
